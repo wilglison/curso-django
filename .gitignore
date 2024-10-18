@@ -1,0 +1,8 @@
+venv
+*.pyc
+__pycache__/
+# Django
+*.log
+# Visual Studio Code
+.vscode/
+.pytest_cache
